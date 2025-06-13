@@ -28,4 +28,3 @@ else:
 
     st.dataframe(pivot)
 
-    st.markdown("🛈 Gelişmiş takvim görünümü için ileride FullCalendar veya Plotly Gantt gibi araçlarla görselleştirme eklenebilir.")
